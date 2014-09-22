@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# EqelaActivity
+#
+
+projectname: EqelaActivity
+vendorid: com.myactivity
+mainmodule: com.myactivity.eqelaactivity
